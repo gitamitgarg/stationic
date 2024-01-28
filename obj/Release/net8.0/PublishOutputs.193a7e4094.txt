@@ -1,0 +1,7 @@
+C:\17-Dec-2023\Azure\az-webapp\webapp\bin\Release\net8.0\publish\webapp.exe
+C:\17-Dec-2023\Azure\az-webapp\webapp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\17-Dec-2023\Azure\az-webapp\webapp\bin\Release\net8.0\publish\appsettings.json
+C:\17-Dec-2023\Azure\az-webapp\webapp\bin\Release\net8.0\publish\webapp.dll
+C:\17-Dec-2023\Azure\az-webapp\webapp\bin\Release\net8.0\publish\webapp.deps.json
+C:\17-Dec-2023\Azure\az-webapp\webapp\bin\Release\net8.0\publish\webapp.runtimeconfig.json
+C:\17-Dec-2023\Azure\az-webapp\webapp\bin\Release\net8.0\publish\webapp.pdb
